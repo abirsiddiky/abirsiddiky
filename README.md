@@ -12,9 +12,9 @@
 
 ## 🙃 What I do
 
-- 📱 Building Android apps with Kotlin & Jetpack Compose
+- 📱 Building Android apps with Flutter, Kotlin & Jetpack Compose
 - 🖥️ Windows apps with .NET & Avalonia
-- 🌐 Web with Next.js, React, PHP
+- 🌐 Web with WordPress, Laravel Next.js, React, Vanilla PHP
 - ⚙️ Backend with Go & Node.js
 - 🐧 Living with Linux & hosting stuff (cPanel, WHM, DNS)
 
